@@ -36,7 +36,7 @@ const Navbar = () => {
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">
-          {['Features', 'Testimonials', 'Pricing'].map((item) => (
+          {['Home', 'Services', 'About'].map((item) => (
             <a 
               key={item} 
               href={`#${item.toLowerCase()}`}
