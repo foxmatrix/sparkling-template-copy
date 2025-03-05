@@ -52,7 +52,7 @@ const Navbar = () => {
             href="#contact" 
             className="hidden md:inline-flex h-9 px-4 items-center justify-center rounded-md bg-primary text-sm font-medium text-primary-foreground shadow-sm transition-colors hover:bg-primary/90 hover-lift"
           >
-            Get Started
+            Contact
           </a>
           
           <button className="md:hidden text-primary">
