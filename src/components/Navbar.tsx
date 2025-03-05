@@ -32,7 +32,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="#" className="text-primary font-medium text-xl">
-          Spark
+          KOSMYNIN PRODUCTION
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">
