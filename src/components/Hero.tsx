@@ -27,10 +27,10 @@ const Hero = () => {
           className={`text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-medium tracking-tight text-balance
             ${mounted ? 'animate-scale-in' : 'opacity-0'}`}
         >
-          The digital product 
+          Amazon content studio 
           <br className="hidden sm:inline" /> 
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-            for your next project
+            in China
           </span>
         </h1>
         
